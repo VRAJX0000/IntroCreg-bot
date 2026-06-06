@@ -1,6 +1,6 @@
 # Intro Creg - Advanced Introduction System
 
-![Banner](https://via.placeholder.com/1200x400?text=Intro+Creg+Bot)
+<img width="1980" height="1080" alt="FULL SOURCE CODE_" src="https://github.com/user-attachments/assets/6e34ef06-384e-42da-9b8b-a8e10a343141" />
 
 **Intro Creg** is the ultimate solution for Discord communities that require user introductions and verification. With a sleek, wizard-based setup and automated role management, it transforms how new members join your server.
 
