@@ -1,0 +1,52 @@
+{
+    "common": {
+        "success": "Success",
+        "error": "Error",
+        "lang_set": "Language set to **{lang}**.",
+        "slow_down": "⏳ **Slow down!** You are doing that too fast. Wait {seconds}s.",
+        "interaction_error": "There was an error while executing this command!",
+        "no_permission": "⛔ You do not have permission to do this."
+    },
+    "intro": {
+        "submit_success": "✅ **Thank you!** Your introduction has been submitted for review!",
+        "submit_error": "❌ An error occurred while posting your introduction.",
+        "session_expired": "❌ Session expired or invalid. Please start over.",
+        "inappropriate": "⚠️ **Inappropriate Content Detected**\nPlease ensure your introduction is friendly and free of bad words, spam, or invites.",
+        "invalid_age": "❌ Invalid Age! You must be between 13 and 99 years old.",
+        "already_submitted": "✅ You have already submitted an introduction!"
+    },
+    "moderation": {
+        "approved_log": "Introduction **APPROVED** by {user}.",
+        "rejected_log": "Introduction **REJECTED** by {user}.",
+        "dm_approved_title": "🎉 You're In! Welcome to the Community!",
+        "dm_approved_desc": "Great news! Your introduction in **{guild}** has been approved! 🌟\n\nYou now have full access to the server. Go say hi! 👋",
+        "dm_rejected_title": "📝 Introduction Update",
+        "dm_rejected_desc": "Hi there! Moderators have reviewed your introduction in **{guild}**, and unfortunately, it was declined.\n\nDon't worry! You can try again anytime by clicking the \"Submit Introduction\" button in the channel. Please ensure you follow the server guidelines."
+    },
+    "help": {
+        "title": "🤖 Bot Commands",
+        "desc": "Here is a detailed list of available commands:"
+    },
+    "profile": {
+        "not_found": "No approved introduction found for {user}.",
+        "title": "{user}'s Profile",
+        "field_name": "📛 Name",
+        "field_age": "Age",
+        "field_gender": "Gender",
+        "field_profession": "Profession",
+        "field_location": "Location",
+        "field_platform": "Platform",
+        "field_game": "Main Game/Activity"
+    },
+    "setup": {
+        "prompt_title": "✨ Introduce Yourself & Join the Fun! ✨",
+        "prompt_desc": "We are so excited to get to know you! 👋\n\nClick the **Submit Introduction** button below to share a bit about yourself with the community.\n\nYour intro will be reviewed by our lovely moderators and then posted for everyone to say, \"Hi!\" ❤️",
+        "prompt_footer": "We can't wait to meet you! 🚀",
+        "btn_label": "Submit Introduction"
+    },
+    "stats": {
+        "title": "📊 Server Statistics",
+        "approved": "Approved Introductions",
+        "pending": "Pending Reviews"
+    }
+}

@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./data.json:/usr/src/app/data.json # Persist JSON data if used
+      - ./serverConfig.json:/usr/src/app/serverConfig.json # Persist server config
+      - ./server_invites.txt:/usr/src/app/server_invites.txt # Persist invites
+      # Don't mount node_modules, let the image handle it
